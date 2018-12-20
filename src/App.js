@@ -1,7 +1,5 @@
 import React from 'react'
 
-const a = 'A'
-
 class App extends React.Component {
   state = {
     count: 0
